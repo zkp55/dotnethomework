@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework2\ToeplitzMatrix\bin\Debug\ToeplitzMatrix.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework2\ToeplitzMatrix\bin\Debug\ToeplitzMatrix.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework2\ToeplitzMatrix\bin\Debug\ToeplitzMatrix.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework2\ToeplitzMatrix\obj\Debug\ToeplitzMatrix.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework2\ToeplitzMatrix\obj\Debug\ToeplitzMatrix.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework2\ToeplitzMatrix\obj\Debug\ToeplitzMatrix.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework2\ToeplitzMatrix\obj\Debug\ToeplitzMatrix.pdb

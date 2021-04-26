@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\bin\Debug\Homework3.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\bin\Debug\Homework3.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\bin\Debug\Homework3.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Homework3.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Homework3.pdb
